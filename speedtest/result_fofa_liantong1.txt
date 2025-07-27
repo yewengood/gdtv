@@ -1,3 +1,2 @@
-1524  ikuai.haleeyo.cn:9003
-316k  183.30.201.92:10002
+255k  ikuai.haleeyo.cn:9003
 0  rustdesk.szsun.xyz:8088
