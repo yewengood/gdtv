@@ -63,10 +63,10 @@ CCTV14测试,http://ipipip/udp/239.77.0.133:5146
 CCTV15,http://ipipip/udp/239.77.1.239:5146
 CCTV16,http://ipipip/udp/239.77.0.165:5146
 CCTV16,http://ipipip/udp/239.77.1.76:5146
-CCTV16 4K,http://ipipip/udp/239.77.1.98:5146
+CCTV16-4K,http://ipipip/udp/239.77.1.98:5146
 CCTV17,http://ipipip/udp/239.77.1.121:5146
-CCTV4K 4K,http://ipipip/udp/239.77.0.194:5146
-CCTV4K 4K50p,http://ipipip/udp/239.77.0.174:5146
+CCTV4K,http://ipipip/udp/239.77.0.194:5146
+CCTV4K,http://ipipip/udp/239.77.0.174:5146
 CGTN,http://ipipip/udp/239.77.0.45:5146
 CGTN,http://ipipip/udp/239.77.1.27:5146
 CGTN英语,http://ipipip/udp/239.77.0.199:5146
@@ -77,7 +77,7 @@ CGTN俄语,http://ipipip/udp/239.253.43.201:5146
 影迷电影,http://ipipip/udp/239.77.0.27:5146
 求索记录,http://ipipip/udp/239.77.0.21:5146
 求索生活,http://ipipip/udp/239.77.0.153:5146
-深圳卫视4K,http://ipipip/udp/239.77.1.14:5146
+深圳卫视4K,http://ipipip/udp/239.77.0.67:5146
 深圳卫视高清,http://ipipip/udp/239.77.1.148:5146
 深圳卫视高清,http://ipipip/udp/239.77.0.92:5146
 深圳卫视超清,http://ipipip/udp/239.77.0.130:5146
@@ -115,7 +115,7 @@ HZTV-2高清,http://ipipip/udp/239.77.1.233:5146
 肇庆综合高清,http://ipipip/udp/239.253.43.1:5146
 阳江1,http://ipipip/udp/239.253.43.82:5146
 阳江2,http://ipipip/udp/239.253.43.83:5146
-广东卫视4K,http://ipipip/udp/239.77.0.16:5146
+广东卫视4K,http://ipipip/udp/239.77.0.27:5146
 肇庆生活服务高清,http://ipipip/udp/239.253.43.2:5146
 河源综合高清,http://ipipip/udp/239.253.43.213:5146
 河源公共高清,http://ipipip/udp/239.253.43.214:5146
