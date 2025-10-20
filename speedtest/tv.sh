@@ -54,8 +54,10 @@ program="template/template_${city}.txt"
 
 sed "s/ipipip/$ip1/g" "$program" > tmp1.txt
 sed "s/ipipip/$ip2/g" "$program" > tmp2.txt
-cat tmp1.txt tmp2.txt > "txt/fofa_${city}.txt"
-rm -rf tmp1.txt tmp2.txt
+sed "s/ipipip/$ip3/g" "$program" > tmp3.txt
+sed "s/ipipip/$ip4/g" "$program" > tmp4.txt
+cat tmp1.txt tmp2.txt tmp3.txt tmp4.txt >"txt/fofa_${city}.txt"
+rm -rf tmp1.txt tmp2.txt tmp3.txt tmp4.txt
 rm -rf gdtv_fofa.txt
 #--------------------合并所有城市的txt文件为:   zubo_fofa.txt-----------------------------------------
 echo "📡  电信频道,#genre#" >>gdtv_fofa.txt
